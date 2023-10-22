@@ -1,6 +1,6 @@
 # Abstract Data Structure Implementations
 
-Implemented a variety of ADTs in Python without the use of built-in Python data structures nor methods.
+Implemented a variety of ADTs in Python without the use of built-in Python data structures nor methods. Please contact for access to assignments 1-5
 
 assignment-1 : static arrays
 assignment-2 : dynamic arrays & bags 
